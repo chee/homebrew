@@ -1,0 +1,7 @@
+homebrew formula
+----------------
+
+• libfsm
+
+  - i'd recommend doing `brew install libfsm --HEAD` here, because for some
+    reason the build failes when trying to do it from the archive zip
